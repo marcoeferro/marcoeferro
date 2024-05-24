@@ -13,7 +13,7 @@ I am a Systems Engineering student who is passionate about transforming data int
 - Convolutional Neural Network (CNN) for Image Classification in E-commerce
   
 ### 👓 Skills  
-- Python - MySQL - Numpy - Pandas - Scikit Learn - Plotly - Seaborn - matplotlib
+- Python - MySQL - Numpy - Pandas - Scikit Learn - Plotly - Seaborn - Matplotlib
 
 ### 📲 Contact me 
 - https://www.linkedin.com/in/marcoeferro/
