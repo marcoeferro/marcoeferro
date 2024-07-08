@@ -4,8 +4,8 @@
 I am a Systems Engineering student who is passionate about transforming data into solutions, using AI to pioneer innovative solutions, expand its applications into new domains, and help people learn about AI. Some technologies I enjoy working with include Python, Flask, NumPy, Pandas, Seaborn, Plotly, scikit-learn, among others. 
 
 ### 🔭 I’m currently working on ...
-- Exploratory Data Analysis (EDA) on an Online Retail Sales Dataset 👈
-- Classification of Customer Purchases
+- Exploratory Data Analysis (EDA) on an Online Retail Sales Dataset ✅
+- Classification of Customer Purchases 👈
 - Regression for Inventory Demand Prediction
 ### Projects I am interested in working on 
 - Clustering: Customer Segmentation
