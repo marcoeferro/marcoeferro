@@ -7,7 +7,7 @@ I am a Systems Engineering student who is passionate about transforming data int
 - Exploratory Data Analysis (EDA) on an Online Retail Sales Dataset ✅
 - Classification of Customer Purchases 👈
 - Regression for Inventory Demand Prediction
-- Clustering: Customer Segmentation
+- Clustering: Customer Segmentation 👈
 - Natural Language Processing (NLP) for Sentiment Analysis of Amazon Reviews
 - Convolutional Neural Network (CNN) for Image Classification in E-commerce
   
