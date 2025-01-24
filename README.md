@@ -1,42 +1,52 @@
-### Hi there, I'm Marco 👋
-**Newbie Data Scientist**
+---
 
-I am a Systems Engineering student who is passionate about ***transforming data into solutions, using AI to pioneer innovative solutions***, expand its applications into new domains, and help people learn about AI.
+# 👨‍💻 Marco Ferro - Systems Engineering Student | Aspiring AI/ML Engineer
 
-### 🔭 I’m currently working on ...
-- Exploratory Data Analysis (EDA) on an Online Retail Sales Dataset ✅
-- Classification of Customer Purchases 👈
-- Regression for Inventory Demand Prediction
-- Clustering: Customer Segmentation 👈
-- Natural Language Processing (NLP) for Sentiment Analysis of Amazon Reviews
-- Convolutional Neural Network (CNN) for Image Classification in E-commerce
-  
-### 👓 Skills  
-- Python - MySQL - Numpy - Pandas - Scikit Learn - Plotly - Seaborn - Matplotlib
+Welcome to my GitHub! I’m an advanced systems engineering student with a focus on **Data Science**, **machine learning**, and **data engineering**. I’m passionate about **intrapreneurship** and am currently exploring startup ideas that combine **data analytics** and **technology**.
 
-### 📲 Contact me 
-- https://www.linkedin.com/in/marcoeferro/
-<!--
-### 🔭 I’m currently working on ...
-- Exploratory Data Analysis (EDA) on an Online Retail Sales Dataset 👈
-- Classification of Customer Purchases
-- Regression for Inventory Demand Prediction
-- Clustering: Customer Segmentation
-- Natural Language Processing (NLP) for Sentiment Analysis of Amazon Reviews
-- Convolutional Neural Network (CNN) for Image Classification in E-commerce
+---
 
-### 🌱 I’m currently learning ...
-I'm dedicated to sharpening my skills in Data Science. I'm exploring new concepts, reading relevant documentation, and working on small side projects to deepen my understanding and expertise.
+## 🚀 Skills
 
-**marcoeferro/marcoeferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming**: Python, SQL, JavaScript, HTML
+- **Data Analysis**: Numpy, Pandas, Seaborn, Matplotlib, Plotly
+- **Machine Learning**: Scikit-learn, Regression, Classification, CNN
+- **Web Development**: Flask, PostgreSQL
+- **DevOps**: Docker, CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+
+### 1. **Retailer Stock System**
+A platform for retailers to manage stock data. The goal is to offer this for **free** and use the generated data for **analytics** sold to product factories.
+
+### 2. **Customer Churn Prediction** (Classification)
+Identify customers at high risk of churning (stopping purchases) to implement retention strategies.
+
+### 3. ** Demand Forecasting for Specific Products** (Classification)
+Predict future demand for individual products to optimize inventory levels and minimize stockouts or overstocking.
+
+### 4. **Customer Segmentation System** (Regression )
+Developing a segmentation tool for businesses to understand their customer base and tailor their marketing strategies.
+
+### 5. **Sentiment Analysis for Reviews** (NLP)
+Working on a sentiment analysis tool to assess customer reviews and provide insights to businesses.
+
+### 6. Visual Inventory Management (CNN)
+Real-time, automated inventory tracking using computer vision.
+
+---
+
+## 💡 Philosophy & Approach
+
+I believe in the power of **data-driven decision-making** and aim to build technologies that make an impact. I enjoy solving real-world problems with **machine learning**, **data analytics**, and **AI**.
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/marcoeferro/)
+- [Twitter](https://x.com/marcofe72175603)
+- [Instagram](https://www.instagram.com/marcoeferro/)
+---
