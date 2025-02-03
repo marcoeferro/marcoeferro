@@ -24,7 +24,7 @@ A platform for retailers to manage stock data. The goal is to offer this for **f
 ### 2. **Customer Churn Prediction** (Classification)
 Identify customers at high risk of churning (stopping purchases) to implement retention strategies.
 
-### 3. ** Demand Forecasting for Specific Products** (Classification)
+### 3. **Demand Forecasting for Specific Products** (Classification)
 Predict future demand for individual products to optimize inventory levels and minimize stockouts or overstocking.
 
 ### 4. **Customer Segmentation System** (Regression )
