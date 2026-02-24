@@ -39,14 +39,6 @@ Transforms accounting data into structured managerial intelligence.
 * Break-even analysis
 * Cost visibility for pricing optimization
 
-### 🛠 Tech Stack
-
-* Python
-* FastAPI
-* PostgreSQL
-* SvelteKit
-* TailwindCSS + DaisyUI
-
 ---
 
 ## 📦 2️⃣ Dynamic Pricing & Demand Control System
@@ -70,14 +62,6 @@ The system adjusts order quantities based on:
 * System inertia
 * Stability constraints
 
-### 🛠 Tech Stack
-
-* Python
-* FastAPI
-* PostgreSQL
-* SvelteKit
-* TailwindCSS + DaisyUI
-
 ---
 
 ## 🔎 3️⃣ Competitor Analysis Engine (Competitor Scout)
@@ -94,51 +78,6 @@ Transforms unstructured market data into structured competitive reports.
 * Web scraping pipelines
 * Signal extraction & normalization
 * Automated reporting
-
-### 🛠 Tech Stack
-
-* Python
-* FastAPI
-* PostgreSQL
-* SvelteKit
-* TailwindCSS + DaisyUI
-
----
-
-# 🧠 Technical Orientation
-
-**Languages**
-
-* Python
-* SQL
-* JavaScript
-
-**Data & ML**
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Regression / Classification
-* Time-series reasoning
-* Control systems (PID, FOPDT)
-
-**Architecture**
-
-* REST APIs
-* Relational modeling (PostgreSQL)
-* Simulation-based validation
-* Backend-first thinking
-
----
-
-# 🎯 What I’m Looking For
-
-I’m seeking roles in:
-
-* Machine Learning Engineering
-* Data Engineering
-* Applied AI Systems
-* Backend / Data-centric product teams
 
 ---
 
