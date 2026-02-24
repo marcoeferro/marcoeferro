@@ -1,52 +1,149 @@
----
+# 👨‍💻 Marco Ferro
 
-# 👨‍💻 Marco Ferro - Systems Engineering Student | Aspiring AI/ML Engineer
+### Applied Machine Learning • Data Systems • Control-Oriented Engineering
 
-Welcome to my GitHub! I’m an advanced systems engineering student with a focus on **Data Science**, **machine learning**, and **data engineering**. I’m passionate about **intrapreneurship** and am currently exploring startup ideas that combine **data analytics** and **technology**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-ML%20%7C%20Data%20Engineering%20%7C%20Backend-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Decision%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Location-Argentina-lightgrey" />
+</p>
 
----
+I build **data-driven decision systems** that combine:
 
-## 🚀 Skills
+* 📊 Financial modeling
+* 📈 Demand & time-series reasoning
+* ⚙️ Control theory (PID / FOPDT)
+* 🗄 Backend data architecture
 
-- **Programming**: Python, SQL, JavaScript, HTML
-- **Data Analysis**: Numpy, Pandas, Seaborn, Matplotlib, Plotly
-- **Machine Learning**: Scikit-learn, Regression, Classification, CNN
-- **Web Development**: Flask, PostgreSQL
-- **DevOps**: Docker, CI/CD
-
----
-
-## 🔨 Projects
-
-### 1. **Retailer Stock System**
-A platform for retailers to manage stock data. The goal is to offer this for **free** and use the generated data for **analytics** sold to product factories.
-
-### 2. **Customer Churn Prediction** (Classification)
-Identify customers at high risk of churning (stopping purchases) to implement retention strategies.
-
-### 3. **Demand Forecasting for Specific Products** (Regression)
-Predict future demand for individual products to optimize inventory levels and minimize stockouts or overstocking.
-
-### 4. **Customer Segmentation System** (Clustering)
-Developing a segmentation tool for businesses to understand their customer base and tailor their marketing strategies.
-
-### 5. **Sentiment Analysis for Reviews** (NLP)
-Working on a sentiment analysis tool to assess customer reviews and provide insights to businesses.
-
-### 6. Visual Inventory Management (CNN)
-Real-time, automated inventory tracking using computer vision.
+My focus is not just training models — I design systems where algorithms directly influence operational decisions.
 
 ---
 
-## 💡 Philosophy & Approach
-
-I believe in the power of **data-driven decision-making** and aim to build technologies that make an impact. I enjoy solving real-world problems with **machine learning**, **data analytics**, and **AI**.
+# 🚀 Current Projects
 
 ---
 
-## 📫 Connect
+## 🧮 1️⃣ Accounting Intelligence App
 
-- [LinkedIn](https://www.linkedin.com/in/marcoeferro/)
-- [Twitter](https://x.com/marcofe72175603)
-- [Instagram](https://www.instagram.com/marcoeferro/)
+🔗 [https://github.com/marcoeferro/accounting_management_app](https://github.com/marcoeferro/accounting_management_app)
+
+**Cost modeling & decision support system for SMEs**
+
+Transforms accounting data into structured managerial intelligence.
+
+### Key Capabilities
+
+* Product-level cost composition
+* Indirect cost allocation (sales-volume driver)
+* Contribution margin computation
+* Break-even analysis
+* Cost visibility for pricing optimization
+
+### 🛠 Tech Stack
+
+* Python
+* FastAPI
+* PostgreSQL
+* SvelteKit
+* TailwindCSS + DaisyUI
+
 ---
+
+## 📦 2️⃣ Dynamic Pricing & Demand Control System
+
+🔗 [https://www.github.com/marcoeferro/dynamic_pricing_control_app](https://www.github.com/marcoeferro/dynamic_pricing_control_app)
+
+**Control-theory-based procurement automation**
+
+Inventory ordering modeled as a dynamic system.
+
+### Core Modeling
+
+* FOPDT system modeling
+* PID controller implementation
+* Demand-response simulation
+* Supplier lead-time modeling
+
+The system adjusts order quantities based on:
+
+* Real demand signals
+* System inertia
+* Stability constraints
+
+### 🛠 Tech Stack
+
+* Python
+* FastAPI
+* PostgreSQL
+* SvelteKit
+* TailwindCSS + DaisyUI
+
+---
+
+## 🔎 3️⃣ Competitor Analysis Engine (Competitor Scout)
+
+🔗 [https://www.github.com/marcoeferro/competitor_scout_app](https://www.github.com/marcoeferro/competitor_scout_app)
+
+**Automated competitive intelligence pipeline**
+
+Transforms unstructured market data into structured competitive reports.
+
+### Core Capabilities
+
+* Competitor identification
+* Web scraping pipelines
+* Signal extraction & normalization
+* Automated reporting
+
+### 🛠 Tech Stack
+
+* Python
+* FastAPI
+* PostgreSQL
+* SvelteKit
+* TailwindCSS + DaisyUI
+
+---
+
+# 🧠 Technical Orientation
+
+**Languages**
+
+* Python
+* SQL
+* JavaScript
+
+**Data & ML**
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Regression / Classification
+* Time-series reasoning
+* Control systems (PID, FOPDT)
+
+**Architecture**
+
+* REST APIs
+* Relational modeling (PostgreSQL)
+* Simulation-based validation
+* Backend-first thinking
+
+---
+
+# 🎯 What I’m Looking For
+
+I’m seeking roles in:
+
+* Machine Learning Engineering
+* Data Engineering
+* Applied AI Systems
+* Backend / Data-centric product teams
+
+---
+
+# 📫 Contact
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/marcoeferro/](https://www.linkedin.com/in/marcoeferro/)
+* 🐦 X: [https://x.com/marcoeferro/](https://x.com/marcoeferro/)
+* 📸 Instagram: [https://instagram.com/marcoeferro/](https://instagram.com/marcoeferro/)
