@@ -8,20 +8,9 @@
   <img src="https://img.shields.io/badge/Location-Argentina-lightgrey" />
 </p>
 
-I build **data-driven decision systems** that combine:
-
-* 📊 Financial modeling
-* 📈 Demand & time-series reasoning
-* ⚙️ Control theory (PID / FOPDT)
-* 🗄 Backend data architecture
-
-My focus is not just training models — I design systems where algorithms directly influence operational decisions.
-
 ---
 
 # 🚀 Current Projects
-
----
 
 ## 🧮 1️⃣ Accounting Intelligence App
 
@@ -30,14 +19,6 @@ My focus is not just training models — I design systems where algorithms direc
 **Cost modeling & decision support system for SMEs**
 
 Transforms accounting data into structured managerial intelligence.
-
-### Key Capabilities
-
-* Product-level cost composition
-* Indirect cost allocation (sales-volume driver)
-* Contribution margin computation
-* Break-even analysis
-* Cost visibility for pricing optimization
 
 ---
 
@@ -48,13 +29,6 @@ Transforms accounting data into structured managerial intelligence.
 **Control-theory-based procurement automation**
 
 Inventory ordering modeled as a dynamic system.
-
-### Core Modeling
-
-* FOPDT system modeling
-* PID controller implementation
-* Demand-response simulation
-* Supplier lead-time modeling
 
 The system adjusts order quantities based on:
 
@@ -71,13 +45,6 @@ The system adjusts order quantities based on:
 **Automated competitive intelligence pipeline**
 
 Transforms unstructured market data into structured competitive reports.
-
-### Core Capabilities
-
-* Competitor identification
-* Web scraping pipelines
-* Signal extraction & normalization
-* Automated reporting
 
 ---
 
